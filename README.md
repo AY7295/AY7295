@@ -2,14 +2,14 @@
 
 #### 🔧 Languages and Tools:
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,cpp,git,docker&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=go,cpp,git,docker&theme=dark" />
 </p>
 
+
+#### ♻️ Status:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AY7295&&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/AY7295)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AY7295&theme=tokyonight&layout=compact)](https://github.com/AY7295)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AY7295&theme=tokyonight&layout=compact)](https://github.com/AY7295) -->
 
 <!--
 **AY7295/AY7295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
