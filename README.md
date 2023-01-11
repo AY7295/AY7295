@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm AY7295 | AY
 
+#### 🔧 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,cpp,git,docker&theme=dark" />
