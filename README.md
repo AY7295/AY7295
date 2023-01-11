@@ -1,4 +1,11 @@
 ### Hi there 👋
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,c++,git,docker&theme=dark" />
+  </a>
+</p>
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AY7295&&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/AY7295)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AY7295&theme=tokyonight&layout=compact)](https://github.com/AY7295)
