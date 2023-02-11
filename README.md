@@ -5,9 +5,10 @@
   <img src="https://skillicons.dev/icons?i=go,cpp,git,docker&theme=dark" />
 </p>
 
+![Metrics](https://metrics.lecoq.io/AY7295?template=classic&isocalendar=1&stars=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&stars=false&stars.limit=5&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FShanghai)
 
-#### ♻️ Status:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AY7295&&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/AY7295)
+<!-- #### ♻️ Status:
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AY7295&&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/AY7295) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AY7295&theme=tokyonight&layout=compact)](https://github.com/AY7295) -->
 
